@@ -8,11 +8,9 @@ This portfolio is a full-fledged website built using HTML, CSS, and JavaScript. 
 
 ## Features
 
-- **About Me**: A comprehensive introduction to Niyaz M Khairy, including background and professional interests.
-- **Skills**: An extensive list of skills and technologies that I am proficient in.
+- **About**: A comprehensive introduction to Niyaz M Khairy, including background and professional interests.
+- **Waht I Do**: An extensive list of skills and technologies that I am proficient in.
 - **Projects**: Showcase of my notable projects with detailed descriptions and links.
-
-- **Contact**: A user-friendly contact form and links to my social media profiles for easy communication.
 
 ## License
 
