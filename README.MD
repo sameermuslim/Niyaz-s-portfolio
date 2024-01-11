@@ -1,6 +1,6 @@
 # Niyaz M Khairy's Portfolio
 
-Welcome to my portfolio website! This dynamic and fully responsive portfolio showcases it hase sections like my projects, skills, and professional background and more. You can view the live website at [niyaz.design](https://niyaz.design).
+Welcome to Niyaz.design portfolio website! This dynamic and fully responsive portfolio showcases it hase sections like my projects, skills, and professional background and more. You can view the live website at [niyaz.design](https://niyaz.design).
 
 ## Project Overview
 
